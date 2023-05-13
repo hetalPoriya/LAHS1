@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543385858085",
+    "project_id": "lahs-app",
+    "storage_bucket": "lahs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543385858085:android:537111661df0ecaa028fcc",
+        "android_client_info": {
+          "package_name": "com.lahs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543385858085-k0bekj6jj60lt4iev7eaklekeuldd28v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4I5MdrFNY7UniD3FoPHmNHq1daCgwZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543385858085-k0bekj6jj60lt4iev7eaklekeuldd28v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

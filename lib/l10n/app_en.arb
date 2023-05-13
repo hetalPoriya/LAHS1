@@ -1,0 +1,67 @@
+{
+    "student": "Student",
+    "@student": {
+        "description": ""
+    },
+    "teacher": "Teacher",
+    "@teacher": {
+        "description": ""
+    },
+    "welcomeUser": "Welcome {User}",
+    "@welcomeUser": {
+        "description": "",
+        "placeholders": {
+            "User": {
+                "type": "String"
+            }
+        }
+    },
+    "txt_attendance": "Attendance",
+    "@txt_attendance": {
+        "description": ""
+    },
+    "txt_messages": "Messages",
+    "@txt_messages": {
+        "description": ""
+    },
+    "txt_profile": "Profile",
+    "@txt_profile": {
+        "description": ""
+    },
+    "txt_marks": "Marks",
+    "@txt_marks": {
+        "description": ""
+    },
+    "txt_home_work": "Home Work",
+    "@txt_home_work": {
+        "description": ""
+    },
+    "txt_acheivement_certificate": "Achievement Certificate",
+    "@txt_acheivement_certificate": {
+        "description": ""
+    },
+    "txt_dashboard": "Dashboard",
+    "@txt_dashboard": {
+        "description": ""
+    },
+    "txt_activities": "Activities",
+    "@txt_activities": {
+        "description": ""
+    },
+    "btn_see_all": "See All",
+    "@btn_see_all": {
+        "description": ""
+    },
+    "txt_karate": "Karate",
+    "@txt_karate": {
+        "description": ""
+    },
+    "txt_yoga": "Yoga",
+    "@txt_yoga": {
+        "description": ""
+    },
+    "txt_bharat_natyam": "Bharat Natyam",
+    "@txt_bharat_natyam": {
+        "description": ""
+    }
+}
